@@ -1,7 +1,7 @@
 package springboot.springbootbackend.model;
 
-import javax.annotation.Generated;
-import javax.persistence.*;
+import jakarta.annotation.Generated;
+import jakarta.persistence.*;
 
 @Entity
 @Table(name = "employees")
